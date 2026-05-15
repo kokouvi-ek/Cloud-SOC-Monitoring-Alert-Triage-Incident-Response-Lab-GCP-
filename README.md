@@ -253,11 +253,14 @@ Each simulated incident followed a structured investigation methodology:
 # Screenshots
 
 ## Suggested Screenshots to Include
-- Cloud Logging investigations
-- Security Command Center findings
-- Alert policy configurations
-- BigQuery threat hunting queries
-- IAM role modification logs
-- Failed SSH login detections
+![Alt text](/Attack_log_Explorer.png)
+
+![Alt text](/BigQuery.png)
+
+![Alt text](/Log_Explorer_1.png)
+
+![Alt text](/Log_Explorer_2.png)
+
+![Alt text](/Log_route.png)
 
 ---
