@@ -1,4 +1,4 @@
-# C# Cloud SOC Monitoring, Alert Triage & Incident Response Lab (GCP)
+# Cloud SOC Monitoring, Alert Triage & Incident Response Lab (GCP)
 
 ## Overview
 
