@@ -253,14 +253,20 @@ Each simulated incident followed a structured investigation methodology:
 # Screenshots
 
 ## Suggested Screenshots to Include
+
+Attack Detection Screenshot
 ![Alt text](/Attack_log_Explorer.png)
 
+BigQuery Dataset Screenshot
 ![Alt text](/BigQuery.png)
 
+Logs Explorer Screenshot #1
 ![Alt text](/Log_Explorer_1.png)
 
+Logs Explorer Screenshot #2
 ![Alt text](/Log_Explorer_2.png)
 
+Log Router Sink Screenshot
 ![Alt text](/Log_route.png)
 
 ---
