@@ -15,6 +15,7 @@ The lab focuses on:
 - MITRE ATT&CK mapping
 
 The environment was intentionally designed to emulate enterprise SOC operations using native GCP security tooling and realistic attack simulations.
+## Check out my result screenshots at the end ot the README
 
 ---
 
